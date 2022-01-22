@@ -4,14 +4,14 @@
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGEND-OS/Music-VC)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/W2HGalaxy-OP/W2HMusic-VC-1)
 
 
 ## [REPL](https://t.me/LEGEND_STRINGSESSIONBOT)
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
-$ git clone https://github.com/LEGEND-OS/Music-VC
+$ git clone https://github.com/W2HGalaxy-OP
 $ cd MusicPlayer
 $ cp sample.env .env
 < edit .env with your own values >
@@ -23,7 +23,7 @@ $ sudo docker run musicplayer
 
 - `API_ID`: Telegram app id.
 - `API_HASH`: Telegram app hash.
-- `SESSION`: Pyrogram string session. You can generate from [here](https://replit.com/@AsmSafone/genStr).
+- `SESSION`: Pyrogram string session. You can generate from [here](https://replit.com/@itsw2h/Generate-Telegram-String-Session?v=1).
 - `SUDOERS`: ID of sudo users (separate multiple ids with space).
 - `PREFIX`: Commad prefixes (separate multiple prefix with space). Eg: `! /`
 - `LANGUAGE`: An [available](#languages) bot language (can change it anytime). Default: `en`
