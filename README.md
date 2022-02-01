@@ -1,4 +1,4 @@
-## This Is Telegram Music UserBot To Play Music Without Being Admin
+## This Is Telegram Music To Play Music Without Being Admin
 
 ## A FASTEST AND SMOOTHEST BASED ON TG CALLS AND PYROGRAM STRING.
 
