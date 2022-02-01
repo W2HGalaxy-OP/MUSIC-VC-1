@@ -4,7 +4,7 @@
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/W2HGalaxy-OP/W2HMusic-VC-1)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/W2HGalaxy-OP/W2HMUSICxplay)
 
 
 ## [REPL](https://t.me/LEGEND_STRINGSESSIONBOT)
